@@ -1,0 +1,6 @@
+kaggle
+typing-extensions<4.6.0,>=3.6.6
+tensorflow==2.13.0
+pandas
+numpy
+matplotlib
